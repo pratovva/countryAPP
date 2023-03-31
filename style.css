@@ -190,7 +190,7 @@ body{
     text-align: center;
     color: black;
     font-size: 23px;
-    margin-top: 10px;
+    margin-top: 15px;
   }
   .card-image{
     height: 270px;
@@ -216,7 +216,7 @@ body{
     width: 350px;
     height: 360px;
     box-shadow: 0 0 5px black;
-    margin: 20px 20px;
+    margin: 25px 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
